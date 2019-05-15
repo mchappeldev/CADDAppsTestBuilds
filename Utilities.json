@@ -1,0 +1,758 @@
+[
+  {
+    "id": 72113517,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Project Parameters List 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Gets a list of all Project Parameters and exports to CSV.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/parameter-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMParamList17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMParamList",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, parameter"
+  },
+  {
+    "id": 72113518,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Project Parameters List 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Gets a list of all Project Parameters and exports to CSV.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/parameter-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMParamList18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMParamList",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, parameter"
+  },
+  {
+    "id": 72113519,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Project Parameters List 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Gets a list of all Project Parameters and exports to CSV.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/parameter-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMParamList19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMParamList",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, parameter"
+  },
+  {
+    "id": 72113520,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Project Parameters List 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Gets a list of all Project Parameters and exports to CSV.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/parameter-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMParamList20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMParamList",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, parameter"
+  },
+  {
+    "id": 72113417,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Invisible Parameter Check 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Generates list of invisible parameters",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/invisible-parameters-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMHiddenParamList17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMHiddenParamList",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, hidden, parameter"
+  },
+  {
+    "id": 72113418,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Invisible Parameter Check 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Generates list of invisible parameters",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/invisible-parameters-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMHiddenParamList18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMHiddenParamList",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, hidden, parameter"
+  },
+  {
+    "id": 72113419,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Invisible Parameter Check 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Generates list of invisible parameters",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/invisible-parameters-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMHiddenParamList19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMHiddenParamList",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, hidden, parameter"
+  },
+  {
+    "id": 72113420,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Invisible Parameter Check 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Generates list of invisible parameters",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/invisible-parameters-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMHiddenParamList20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMHiddenParamList",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, hidden, parameter"
+  },
+  {
+    "id": 72113317,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Get Element GUID 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Gets GUID of selected element.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/guid-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMGetGUID17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMGetGUID",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, guid"
+  },
+  {
+    "id": 72113318,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Get Element GUID 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Gets GUID of selected element.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/guid-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMGetGUID18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMGetGUID",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, guid"
+  },
+  {
+    "id": 72113319,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Get Element GUID 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Gets GUID of selected element.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/guid-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMGetGUID19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMGetGUID",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, guid"
+  },
+  {
+    "id": 72113320,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Get Element GUID 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Gets GUID of selected element.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/guid-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMGetGUID20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMGetGUID",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, guid"
+  },
+  {
+    "id": 72113217,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Export Keynotes 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Exports all Keynotes.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/keynote-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMExportKeynotes17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMExportKeynotes",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, keynote"
+  },
+  {
+    "id": 72113218,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Export Keynotes 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Exports all Keynotes.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/keynote-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMExportKeynotes18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMExportKeynotes",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, keynote"
+  },
+  {
+    "id": 72113219,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Export Keynotes 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Exports all Keynotes.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/keynote-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMExportKeynotes19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMExportKeynotes",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, keynote"
+  },
+  {
+    "id": 72113220,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Export Keynotes 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Exports all Keynotes.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/keynote-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMExportKeynotes20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMExportKeynotes",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, keynote"
+  },
+  {
+    "id": 72113117,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Export Images 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Exports all loaded images.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/image-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMExportImages17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMExportImages",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, images"
+  },
+  {
+    "id": 72113118,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Export Images 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Exports all loaded images.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/image-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMExportImages18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMExportImages",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, images"
+  },
+  {
+    "id": 72113119,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Export Images 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Exports all loaded images.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/image-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMExportImages19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMExportImages",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, images"
+  },
+  {
+    "id": 72113120,
+    "ContentType": "721",
+    "Name": "TEST BUILD BIM Manager - Export Images 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Exports all loaded images.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/image-export-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/BIMExportImages20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.BIM.BIMExportImages",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, bim, images"
+  },
+  {
+    "id": 72112517,
+    "ContentType": "721",
+    "Name": "TEST BUILD Reset Single Dim 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Resets overridden text on a selected dimension",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-single-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimResetSingle17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimResetSingle",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, reset"
+  },
+  {
+    "id": 72112518,
+    "ContentType": "721",
+    "Name": "TEST BUILD Reset Single Dim 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Resets overridden text on a selected dimension",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-single-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimResetSingle18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimResetSingle",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, reset"
+  },
+  {
+    "id": 72112519,
+    "ContentType": "721",
+    "Name": "TEST BUILD Reset Single Dim 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Resets overridden text on a selected dimension",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-single-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimResetSingle19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimResetSingle",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, reset"
+  },
+  {
+    "id": 72112520,
+    "ContentType": "721",
+    "Name": "TEST BUILD Reset Single Dim 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Resets overridden text on a selected dimension",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-single-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimResetSingle20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimResetSingle",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, reset"
+  },
+  {
+    "id": 72112417,
+    "ContentType": "721",
+    "Name": "TEST BUILD Reset All Dims 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Resets overridden text on all dims in selected view",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-all-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimResetAll17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimResetAll",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, reset"
+  },
+  {
+    "id": 72112418,
+    "ContentType": "721",
+    "Name": "TEST BUILD Reset All Dims 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Resets overridden text on all dims in selected view",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-all-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimResetAll18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimResetAll",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, reset"
+  },
+  {
+    "id": 72112419,
+    "ContentType": "721",
+    "Name": "TEST BUILD Reset All Dims 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Resets overridden text on all dims in selected view",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-all-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimResetAll19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimResetAll",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, reset"
+  },
+  {
+    "id": 72112420,
+    "ContentType": "721",
+    "Name": "TEST BUILD Reset All Dims 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Resets overridden text on all dims in selected view",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-all-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimResetAll20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimResetAll",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, reset"
+  },
+  {
+    "id": 72112317,
+    "ContentType": "721",
+    "Name": "TEST BUILD Find Dimension Override 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Highlight the dim string if any segment has overridden text",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-overidden-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimFindOverride17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimFindOverride",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, override"
+  },
+  {
+    "id": 72112318,
+    "ContentType": "721",
+    "Name": "TEST BUILD Find Dimension Override 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Highlight the dim string if any segment has overridden text",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-overidden-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimFindOverride18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimFindOverride",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, override"
+  },
+  {
+    "id": 72112319,
+    "ContentType": "721",
+    "Name": "TEST BUILD Find Dimension Override 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Highlight the dim string if any segment has overridden text",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-overidden-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimFindOverride19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimFindOverride",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, override"
+  },
+  {
+    "id": 72112320,
+    "ContentType": "721",
+    "Name": "TEST BUILD Find Dimension Override 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Highlight the dim string if any segment has overridden text",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-overidden-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimFindOverride20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimFindOverride",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, override"
+  },
+  {
+    "id": 72112220,
+    "ContentType": "721",
+    "Name": "TEST BUILD Dimension Segment Total 2020",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Adds up Dim Segments for Total.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-sum-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2020"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimSegmentTotal20.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimSegmentTotal",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, total"
+  },
+  {
+    "id": 72112219,
+    "ContentType": "721",
+    "Name": "TEST BUILD Dimension Segment Total 2019",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Adds up Dim Segments for Total.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-sum-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2019"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimSegmentTotal19.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimSegmentTotal",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, total"
+  },
+  {
+    "id": 72112218,
+    "ContentType": "721",
+    "Name": "TEST BUILD Dimension Segment Total 2018",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Adds up Dim Segments for Total.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-sum-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2018"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimSegmentTotal18.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimSegmentTotal",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, total"
+  },
+  {
+    "id": 72112217,
+    "ContentType": "721",
+    "Name": "TEST BUILD Dimension Segment Total 2017",
+    "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
+    "LongDescription": "Adds up Dim Segments for Total.",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-sum-512.png",
+    "HostSoftware": [
+      "Revit"
+    ],
+    "HostSoftwareSupportedVersions": [
+      "2017"
+    ],
+    "ContentPieceVersion": "01",
+    "Url": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/DimSegmentTotal17.dll",
+    "SupportingFiles": "",
+    "DllEntryPoint": "CADD.Toolbox.Dim.DimSegmentTotal",
+    "HasReadMe": "1",
+    "RevitElementIds": "",
+    "Keywords": "addin, macro, dim, total"
+  }
+]
