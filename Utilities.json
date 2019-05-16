@@ -5,7 +5,7 @@
     "Name": "TEST BUILD BIM Manager - Project Parameters List 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Gets a list of all Project Parameters and exports to CSV.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/parameter-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/parameter-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -26,7 +26,7 @@
     "Name": "TEST BUILD BIM Manager - Project Parameters List 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Gets a list of all Project Parameters and exports to CSV.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/parameter-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/parameter-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -47,7 +47,7 @@
     "Name": "TEST BUILD BIM Manager - Project Parameters List 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Gets a list of all Project Parameters and exports to CSV.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/parameter-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/parameter-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -68,7 +68,7 @@
     "Name": "TEST BUILD BIM Manager - Project Parameters List 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Gets a list of all Project Parameters and exports to CSV.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/parameter-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/parameter-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -89,7 +89,7 @@
     "Name": "TEST BUILD BIM Manager - Invisible Parameter Check 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Generates list of invisible parameters",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/invisible-parameters-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/invisible-parameters-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -110,7 +110,7 @@
     "Name": "TEST BUILD BIM Manager - Invisible Parameter Check 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Generates list of invisible parameters",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/invisible-parameters-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/invisible-parameters-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -131,7 +131,7 @@
     "Name": "TEST BUILD BIM Manager - Invisible Parameter Check 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Generates list of invisible parameters",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/invisible-parameters-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/invisible-parameters-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -152,7 +152,7 @@
     "Name": "TEST BUILD BIM Manager - Invisible Parameter Check 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Generates list of invisible parameters",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/invisible-parameters-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/invisible-parameters-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -173,7 +173,7 @@
     "Name": "TEST BUILD BIM Manager - Get Element GUID 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Gets GUID of selected element.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/guid-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/guid-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -194,7 +194,7 @@
     "Name": "TEST BUILD BIM Manager - Get Element GUID 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Gets GUID of selected element.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/guid-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/guid-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -215,7 +215,7 @@
     "Name": "TEST BUILD BIM Manager - Get Element GUID 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Gets GUID of selected element.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/guid-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/guid-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -236,7 +236,7 @@
     "Name": "TEST BUILD BIM Manager - Get Element GUID 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Gets GUID of selected element.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/guid-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/guid-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -257,7 +257,7 @@
     "Name": "TEST BUILD BIM Manager - Export Keynotes 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Exports all Keynotes.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/keynote-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/keynote-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -278,7 +278,7 @@
     "Name": "TEST BUILD BIM Manager - Export Keynotes 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Exports all Keynotes.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/keynote-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/keynote-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -299,7 +299,7 @@
     "Name": "TEST BUILD BIM Manager - Export Keynotes 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Exports all Keynotes.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/keynote-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/keynote-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -320,7 +320,7 @@
     "Name": "TEST BUILD BIM Manager - Export Keynotes 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Exports all Keynotes.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/keynote-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/keynote-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -341,7 +341,7 @@
     "Name": "TEST BUILD BIM Manager - Export Images 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Exports all loaded images.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/image-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/image-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -362,7 +362,7 @@
     "Name": "TEST BUILD BIM Manager - Export Images 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Exports all loaded images.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/image-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/image-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -383,7 +383,7 @@
     "Name": "TEST BUILD BIM Manager - Export Images 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Exports all loaded images.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/image-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/image-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -404,7 +404,7 @@
     "Name": "TEST BUILD BIM Manager - Export Images 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Exports all loaded images.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/image-export-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/image-export-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -425,7 +425,7 @@
     "Name": "TEST BUILD Reset Single Dim 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Resets overridden text on a selected dimension",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-reset-single-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-single-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -446,7 +446,7 @@
     "Name": "TEST BUILD Reset Single Dim 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Resets overridden text on a selected dimension",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-reset-single-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-single-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -467,7 +467,7 @@
     "Name": "TEST BUILD Reset Single Dim 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Resets overridden text on a selected dimension",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-reset-single-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-single-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -488,7 +488,7 @@
     "Name": "TEST BUILD Reset Single Dim 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Resets overridden text on a selected dimension",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-reset-single-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-single-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -509,7 +509,7 @@
     "Name": "TEST BUILD Reset All Dims 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Resets overridden text on all dims in selected view",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-reset-all-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-all-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -530,7 +530,7 @@
     "Name": "TEST BUILD Reset All Dims 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Resets overridden text on all dims in selected view",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-reset-all-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-all-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -551,7 +551,7 @@
     "Name": "TEST BUILD Reset All Dims 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Resets overridden text on all dims in selected view",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-reset-all-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-all-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -572,7 +572,7 @@
     "Name": "TEST BUILD Reset All Dims 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Resets overridden text on all dims in selected view",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-reset-all-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-reset-all-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -593,7 +593,7 @@
     "Name": "TEST BUILD Find Dimension Override 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Highlight the dim string if any segment has overridden text",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-overidden-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-overidden-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -614,7 +614,7 @@
     "Name": "TEST BUILD Find Dimension Override 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Highlight the dim string if any segment has overridden text",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-overidden-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-overidden-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -635,7 +635,7 @@
     "Name": "TEST BUILD Find Dimension Override 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Highlight the dim string if any segment has overridden text",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-overidden-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-overidden-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -656,7 +656,7 @@
     "Name": "TEST BUILD Find Dimension Override 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Highlight the dim string if any segment has overridden text",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-overidden-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-overidden-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -677,7 +677,7 @@
     "Name": "TEST BUILD Dimension Segment Total 2020",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Adds up Dim Segments for Total.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-sum-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-sum-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -698,7 +698,7 @@
     "Name": "TEST BUILD Dimension Segment Total 2019",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Adds up Dim Segments for Total.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-sum-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-sum-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -719,7 +719,7 @@
     "Name": "TEST BUILD Dimension Segment Total 2018",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Adds up Dim Segments for Total.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-sum-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-sum-512.png",
     "HostSoftware": [
       "Revit"
     ],
@@ -740,7 +740,7 @@
     "Name": "TEST BUILD Dimension Segment Total 2017",
     "ReadMeLink": "https://www.caddmicrosystems.com/community/toolbox/pin-levels-2019/",
     "LongDescription": "Adds up Dim Segments for Total.",
-    "ImagePath": "https://github.com/subaru25rs/CADDAppsTestBuilds/raw/master/BIM/thumbnail/dim-sum-512.png",
+    "ImagePath": "https://www.caddmicrosystems.com/appres/toolbox/assets/r_apps/thumbnail/dim-sum-512.png",
     "HostSoftware": [
       "Revit"
     ],
