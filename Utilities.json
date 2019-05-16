@@ -55,7 +55,7 @@
       "2019"
     ],
     "ContentPieceVersion": "01",
-    "Url": "https://github.com/subaru25rs/CADDAppsTestBuilds/blob/master/BIM/BIMParamList19.dll?raw=true",
+    "Url": "C:\Users\%USERNAME%\Dropbox (CADD Microsystems)\CADD Branded IP\Toolbox for Revit\Test\Utilities\BIM\BIMParamList19.dll",
     "SupportingFiles": "",
     "DllEntryPoint": "CADD.Toolbox.BIM.BIMParamList",
     "HasReadMe": "1",
